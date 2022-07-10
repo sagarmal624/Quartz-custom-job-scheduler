@@ -1,6 +1,5 @@
 # Spring Boot Quartz Scheduler Example: Building an Email Scheduling app
 
-**Complete Tutorial:** https://www.callicoder.com/spring-boot-quartz-scheduler-email-scheduling-example/
 
 ## Requirements
 
