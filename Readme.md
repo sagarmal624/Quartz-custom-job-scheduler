@@ -8,7 +8,7 @@
 
 2. Maven - 3.x.x
 
-3. MySQL - 5.x.x
+3. M2 Database
 
 ## Steps to Setup
 
